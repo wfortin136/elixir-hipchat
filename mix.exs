@@ -26,7 +26,7 @@ defmodule Hipchat.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [ 
-      {:httpotion, "~> 2.2.0"},
+      {:httpotion, "~> 2.2.2"},
       {:json, "~> 0.3.0"}
     ]
   end
